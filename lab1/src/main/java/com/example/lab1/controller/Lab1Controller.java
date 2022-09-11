@@ -12,4 +12,23 @@ public class Lab1Controller {
         return "Hello World!";
     }
 
+    @GetMapping("/max")
+    String Max() {
+        return "maksym.html";
+    }
+
+    @GetMapping("/ivanna")
+    String Ivanna() {
+        return "ivanna.html";
+    }
+
+    @GetMapping("/vitalii")
+    String Vitalii() {
+        return "vitalii.html";
+    }
+
+    @GetMapping("/team")
+    String Team() {
+        return "team.html";
+    }
 }
