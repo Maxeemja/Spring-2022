@@ -6,5 +6,5 @@ My team's repo for labs written with Spring Framework.
 **Members:**
 * Maksym Hrytsiuk
 * Ivanna Shevchuk
-* Vitalii Husii
+* Vitalii Huzii
 
