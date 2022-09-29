@@ -1,4 +1,4 @@
-package com.example.lab1;
+package labs.lab1;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -19,6 +19,5 @@ public class Lab1Application implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		System.out.println("Hello from Spring Boot");
 	}
-
 
 }
